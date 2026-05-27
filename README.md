@@ -30,4 +30,4 @@ Powered by deep learning technology, this system is designed to assist in the di
 
 **Datasets and Codes available**
 
-Due to the limit on the size of the files that can be uploaded at github, all the datasets are available at https://doi.org/10.5281/zenodo.20416251, and all the models are available at https://doi.org/10.5281/10.5281/zenodo.20414922.
+Due to the limit on the size of the files that can be uploaded at github, all the datasets are available at https://doi.org/10.5281/zenodo.20416251, and all the models are available at https://doi.org/10.5281/zenodo.20414922.
