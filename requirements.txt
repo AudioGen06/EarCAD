@@ -1,0 +1,19 @@
+# PyTorch core libraries (for deep learning models)
+torch>=1.9.0
+torchvision>=0.10.0
+
+# Numerical and scientific computing
+numpy>=1.19.0
+
+# Image processing
+Pillow>=8.0.0
+opencv-python>=4.5.0
+
+# Data visualization and plotting
+matplotlib>=3.3.0
+
+# Progress bar display
+tqdm>=4.50.0
+
+# Optional: For GPU acceleration, the CUDA version of PyTorch is required
+# Command to install the CPU version: pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
